@@ -1,1 +1,2 @@
-# Machine-Learning-Labs
+# Machine Learning
+This repository contains machine learning labs solutions.
